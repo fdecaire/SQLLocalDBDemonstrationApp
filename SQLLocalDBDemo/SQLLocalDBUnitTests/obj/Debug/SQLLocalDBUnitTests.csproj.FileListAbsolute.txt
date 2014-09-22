@@ -1,0 +1,13 @@
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\obj\Debug\SQLLocalDBUnitTests.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\SQLLocalDBUnitTests.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\SQLLocalDBUnitTests.pdb
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\FluentNHibernate.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\Iesi.Collections.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\NHibernate.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\SQLLocalDBBlogPost2.exe
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\SQLLocalDBBlogPost2.pdb
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\FluentNHibernate.xml
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\Iesi.Collections.xml
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\bin\Debug\NHibernate.xml
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\obj\Debug\SQLLocalDBUnitTests.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBUnitTests\obj\Debug\SQLLocalDBUnitTests.pdb

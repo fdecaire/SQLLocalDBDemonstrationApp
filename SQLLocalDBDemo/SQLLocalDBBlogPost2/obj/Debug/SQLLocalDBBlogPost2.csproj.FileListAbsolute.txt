@@ -1,0 +1,15 @@
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\SQLLocalDBBlogPost2.exe.config
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\obj\Debug\SQLLocalDBBlogPost2.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\SQLLocalDBBlogPost2.exe
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\SQLLocalDBBlogPost2.pdb
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\FluentNHibernate.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\Iesi.Collections.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\NHibernate.dll
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\FluentNHibernate.xml
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\Iesi.Collections.xml
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\bin\Debug\NHibernate.xml
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\obj\Debug\SQLLocalDBBlogPost2.exe
+c:\users\frank\documents\visual studio 2012\Projects\SQLLocalDBBlogPost2\SQLLocalDBBlogPost2\obj\Debug\SQLLocalDBBlogPost2.pdb
+C:\Users\Frank\Documents\GitHub\SQLLocalDBDemonstrationApp\SQLLocalDBDemo\SQLLocalDBBlogPost2\bin\Debug\SQLLocalDBBlogPost2.exe.config
+C:\Users\Frank\Documents\GitHub\SQLLocalDBDemonstrationApp\SQLLocalDBDemo\SQLLocalDBBlogPost2\obj\Debug\SQLLocalDBBlogPost2.exe
+C:\Users\Frank\Documents\GitHub\SQLLocalDBDemonstrationApp\SQLLocalDBDemo\SQLLocalDBBlogPost2\obj\Debug\SQLLocalDBBlogPost2.pdb
